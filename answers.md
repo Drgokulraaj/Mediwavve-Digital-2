@@ -1,4 +1,4 @@
-﻿- Who are you? What do you like building?
+Who are you? What do you like building?
 
 Hi, Myself Gokulraj and basically from IT background, having working experience as a Automation Engineer with MAANG companies as my clients.
 I am having my personal interest towards software development and I like building application which is user friendly, premium, on demand. 
@@ -19,8 +19,8 @@ Windows 10
 
 - Your stackoverflow, linkedin, personal site. Anything you'd want us to see.
 
-`           `<https://github.com/Drgokulraaj>
-`           `<https://www.linkedin.com/in/gokulrajbangalore>
+https://github.com/Drgokulraaj
+https://www.linkedin.com/in/gokulrajbangalore
 
 - What programming languages have you messed around with?
 
@@ -38,31 +38,31 @@ JavaScript
   - What editor/IDE do you use?
 
 
-`                  `**Programming Languages :** 
+Programming Languages 
 
-`                  Python: Python interpreter, Anaconda Navigator, Juypter Notebook
+Python: Python interpreter, Anaconda Navigator, Juypter Notebook
 
-`                  `Java : Java Development Kit(JDK), Intellij
+Java : Java Development Kit(JDK), Intellij
 
-`                  `JavaScript : Node.js
+JavaScript : Node.js
 
-`                  `**Operating System :** 
-`                  `Windows : Windows 10
-`                  `Linux : Ubuntu, CentOS
+**Operating System :** 
+Windows : Windows 10
+Linux : Ubuntu, CentOS
 
-`                  `**IDE and Editor :** 
-`                  `Visual Studio 2022
-`                  `IntelliJ 
-`                  `PyCharm Professional (Student benefit)
-`                  `Eclipse
-`                  `Visual Studio Code 
-`                  `Sublime Text
+
+**IDE and Editor :** 
+Visual Studio 2022
+IntelliJ 
+PyCharm Professional (Student benefit)
+Eclipse
+Visual Studio Code 
+Sublime Text
 
 
 - Are you more into front-end or back-end? (If you're into web development).
 
-`              `I've had the opportunity to explore both front-end and back-end and I find 
-`              `both have the equal importance when it comes to Full Stack.
+I've had the opportunity to explore both front-end and back-end and I find both have the equal importance when it comes to Full Stack.
 
 Are you interested in AI/ML, Systems Programming or anything outside your current domain.
 
